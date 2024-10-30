@@ -1,8 +1,9 @@
 {
-    "posts": [
-      { "id": 1, "title": "Hello World", "author": "John Doe" }
-    ],
-    "comments": [
-      { "id": 1, "postId": 1, "body": "Nice post!" }
+    "drinks": [
+      { "id": 1, "item": "Cappuccino", "price": 3.5 },
+      { "id": 2, "item": "Mango Smoothie", "price": 4.0 },
+      { "id": 3, "item": "Green Tea", "price": 2.5 },
+      { "id": 4, "item": "Lemonade", "price": 2.0 },
+      { "id": 5, "item": "Iced Mocha", "price": 4.5 }
     ]
   }
